@@ -1,5 +1,6 @@
 # Hi there, I'm Md. Nasim Uddin Khan 👋
 
+[![Profile Views](https://komarev.com/ghpvc/?username=nasimkhan-uu&color=blue&label=Profile+Views)](https://github.com/nasimkhan-uu)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801844904548-brightgreen)](https://wa.me/8801844904548)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/nxdnasim?igsh=YzljYTk1ODg3Zg==)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1Ckk8ttAFj/)
