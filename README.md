@@ -47,7 +47,9 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ![Microsoft Word](https://img.shields.io/badge/-Word-2B579A?logo=microsoft-word&logoColor=white&style=flat)
 ![Microsoft PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
-
+![Md. Nasim Uddin Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasimkhan-uu&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimkhan-uu&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nasimkhan-uu&theme=default)](https://git.io/streak-stats)
 ### Blockchain & Cloud
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white&style=flat)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
