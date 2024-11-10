@@ -58,7 +58,7 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://bd.linkedin.com/in/md-nasim-uddin-khan-314785337)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/nasimkhan-uu)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1Ckk8ttAFj/)
----
-![Profile Views](https://img.shields.io/badge/Profile%20Views-7%2C893%2C845-blue?style=flat-square)
 
- 
+---
+
+![Profile Views](https://img.shields.io/badge/Profile%20Views-7%2C893%2C845-00008B?style=for-the-badge&labelColor=black&color=blue)
