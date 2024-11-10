@@ -48,12 +48,6 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ![Microsoft PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimkhan-uu&layout=compact)
-
-![Md. Nasim Uddin Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasimkhan-uu&show_icons=true&theme=default)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nasimkhan-uu&theme=default)](https://git.io/streak-stats)
-
 ### Blockchain & Cloud
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white&style=flat)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
@@ -68,3 +62,11 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ---
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-7%2C893%2C845-00008B?style=for-the-badge&labelColor=black&color=blue)
+
+## Others 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimkhan-uu&layout=compact)
+
+![Md. Nasim Uddin Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasimkhan-uu&show_icons=true&theme=default)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nasimkhan-uu&theme=default)](https://git.io/streak-stats)
+
