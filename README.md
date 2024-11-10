@@ -1,11 +1,9 @@
 # Hi there, I'm Md. Nasim Uddin Khan 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=nasimkhan-uu&color=blue&label=Profile+Views)](https://github.com/nasimkhan-uu)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801844904548-brightgreen)](https://wa.me/8801844904548)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/nxdnasim?igsh=YzljYTk1ODg3Zg==)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1Ckk8ttAFj/)
 [![Email](https://img.shields.io/badge/Email-eurokhan0@gmail.com-blue)](mailto:eurokhan0@gmail.com)
-![Profile Views](https://img.shields.io/badge/Profile%20Views-7%2C893%2C845-blue?style=flat-square)
 
 ## About Me
 I'm a dedicated and passionate developer with a deep interest in Web Development, App Development, Software Engineering, Cybersecurity, and Blockchain Development. My goal is to create impactful digital solutions that drive innovation and efficiency. I thrive in collaborative environments and am always eager to learn and explore the latest trends in technology to expand my skillset. Whether it's building scalable applications or securing digital assets, I’m committed to delivering excellence and pushing the boundaries of what's possible.
@@ -60,3 +58,6 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://bd.linkedin.com/in/md-nasim-uddin-khan-314785337)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/nasimkhan-uu)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1Ckk8ttAFj/)
+##
+![Profile Views](https://img.shields.io/badge/Profile%20Views-7%2C893%2C845-blue?style=flat-square)
+
