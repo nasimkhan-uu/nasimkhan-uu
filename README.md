@@ -1,16 +1,9 @@
 # Hi there, I'm Md. Nasim Uddin Khan 👋
 
-[![WhatsApp:](https://img.shields.io/badge/WhatsApp-%20-25D366?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/8801844904548)
-[![WhatsApp Number:](https://img.shields.io/badge/-%2B8801844904548-white?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=25D366)](https://wa.me/8801844904548)
-
-[![Instagram Follow](https://img.shields.io/badge/Instagram-%20-833AB4?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nxdnasim?igsh=YzljYTk1ODg3Zg==)
-[![Instagram Username](https://img.shields.io/badge/-@nxdnasim-white?style=flat-square&labelColor=833AB4&logo=instagram&logoColor=833AB4)](https://www.instagram.com/nxdnasim?igsh=YzljYTk1ODg3Zg==)
-
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-%20-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/md-nasim-uddin-khan-314785337)
-[![LinkedIn Username](https://img.shields.io/badge/-Md.%20Nasim%20Uddin%20Khan-white?style=flat-square&labelColor=0077B5&logo=linkedin&logoColor=0077B5)](https://bd.linkedin.com/in/md-nasim-uddin-khan-314785337)
-
-[![Facebook Message](https://img.shields.io/badge/Facebook-%20-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/1Ckk8ttAFj/)
-[![Facebook Name](https://img.shields.io/badge/-Md.%20Nasim%20Uddin%20Khan-white?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=1877F2)](https://www.facebook.com/share/1Ckk8ttAFj/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801844904548-brightgreen)](https://wa.me/8801844904548)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/nxdnasim?igsh=YzljYTk1ODg3Zg==)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1Ckk8ttAFj/)
+[![Email](https://img.shields.io/badge/Email-eurokhan0@gmail.com-blue)](mailto:eurokhan0@gmail.com)
 
 ## About Me
 I'm a dedicated and passionate developer with a deep interest in Web Development, App Development, Software Engineering, Cybersecurity, and Blockchain Development. My goal is to create impactful digital solutions that drive innovation and efficiency. I thrive in collaborative environments and am always eager to learn and explore the latest trends in technology to expand my skillset. Whether it's building scalable applications or securing digital assets, I’m committed to delivering excellence and pushing the boundaries of what's possible.
@@ -62,10 +55,10 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
 
 ## Connect with Me
-[![GitHub Follow](https://img.shields.io/badge/GitHub-%20-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nasimkhan-uu)
-[![Twitter Follow](https://img.shields.io/badge/Twitter-%20-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Twitter Handle](https://img.shields.io/badge/-@yourusername-white?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=1DA1F2)](https://twitter.com/yourusername)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://bd.linkedin.com/in/md-nasim-uddin-khan-314785337)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/nasimkhan-uu)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1Ckk8ttAFj/)
 ---
+![Profile Views](https://img.shields.io/badge/Profile%20Views-7%2C893%2C845-blue?style=flat-square)
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-7%2C893%2C845-00008B?style=for-the-badge&labelColor=black&color=blue)
+ 
