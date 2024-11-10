@@ -1,8 +1,8 @@
 # Hi there, I'm Md. Nasim Uddin Khan 👋
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801844904548-brightgreen)](https://wa.me/8801844904548)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/nxdnasim?igsh=YzljYTk1ODg3Zg==)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1Ckk8ttAFj/)
+[![Instagram Follow](https://img.shields.io/badge/Follow%20on%20Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/nxdnasim?igsh=YzljYTk1ODg3Zg==)
+[![Facebook Message](https://img.shields.io/badge/Message%20on%20Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1Ckk8ttAFj/)
 [![Email](https://img.shields.io/badge/Email-eurokhan0@gmail.com-blue)](mailto:eurokhan0@gmail.com)
 
 ## About Me
@@ -55,9 +55,11 @@ I'm a dedicated and passionate developer with a deep interest in Web Development
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://bd.linkedin.com/in/md-nasim-uddin-khan-314785337)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/nasimkhan-uu)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1Ckk8ttAFj/)
-##
-![Profile Views](https://img.shields.io/badge/Profile%20Views-7%2C893%2C845-blue?style=flat-square)
+[![LinkedIn Connect](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://bd.linkedin.com/in/md-nasim-uddin-khan-314785337)
+[![GitHub Follow](https://img.shields.io/badge/Follow%20on%20GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/nasimkhan-uu)
+[![Twitter Follow](https://img.shields.io/badge/Follow%20on%20Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/yourusername)
+[![Facebook Message](https://img.shields.io/badge/Message%20on%20Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1Ckk8ttAFj/)
 
+---
+
+![Profile Views](https://img.shields.io/badge/Profile%20Views-7%2C893%2C845-00008B?style=for-the-badge&labelColor=black&color=blue)
