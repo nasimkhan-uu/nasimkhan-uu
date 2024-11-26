@@ -6,9 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1Ckk8ttAFj/)
 [![Email](https://img.shields.io/badge/Email-eurokhan0@gmail.com-blue)](mailto:eurokhan0@gmail.com)
 [![X](https://img.shields.io/badge/X-%231DA1F2?logo=x&logoColor=white)](https://x.com/NasimIce0)
-
-<img src="https://raw.githubusercontent.com/nasimkhan-uu/nasimkhan-uu/master/xTcnSWYZvafyhEACBO-ezgif.com-speed.gif" width="400" style="float: right;">
-
+ 
 
 ## About Me
 I'm a dedicated and passionate developer with a deep interest in Web Development, App Development, Software Engineering, Cybersecurity, and Blockchain Development. My goal is to create impactful digital solutions that drive innovation and efficiency. I thrive in collaborative environments and am always eager to learn and explore the latest trends in technology to expand my skillset. Whether it's building scalable applications or securing digital assets, I’m committed to delivering excellence and pushing the boundaries of what's possible.
