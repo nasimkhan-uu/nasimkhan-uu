@@ -1,4 +1,4 @@
-![logo](https://github.com/nasimkhan-uu/nasimkhan-uu/blob/2700578a39f947f56803491a03c70167719dce65/_09278574-bca2-476b-820a-a3bc885175d2.jpeg)
+![logo](https://github.com/nasimkhan-uu/nasimkhan-uu/blob/890de99a0dad3a0168892182880aa89c52559b98/_5a50e712-fde6-47e8-8042-2bd141b8590b.jpeg)
 # Hi there, I'm Md. Nasim Uddin Khan 👋
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801844904548-brightgreen)](https://wa.me/8801844904548)
