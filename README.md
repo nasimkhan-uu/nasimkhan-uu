@@ -1,4 +1,4 @@
-![logo](https://github.com/nasimkhan-uu/nasimkhan-uu/blob/890de99a0dad3a0168892182880aa89c52559b98/_5a50e712-fde6-47e8-8042-2bd141b8590b.jpeg)
+![logo](https://github.com/nasimkhan-uu/nasimkhan-uu/blob/2d1899ac58ff5c470e83c4679e9ff3fd4787d5ca/Blue%20Geometric%20Technology%20LinkedIn%20Banner_20241126_224204_0000.png)
 # Hi there, I'm Md. Nasim Uddin Khan 👋
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801844904548-brightgreen)](https://wa.me/8801844904548)
